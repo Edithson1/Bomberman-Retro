@@ -1,0 +1,27 @@
+{
+    "levels_unlocked": {
+        "F\u00e1cil": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "Medio": [
+            true,
+            true,
+            false,
+            false,
+            false
+        ],
+        "Dif\u00edcil": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    "selected_difficulty": "Dif\u00edcil",
+    "selected_level": 0
+}
